@@ -1,0 +1,6 @@
+@PythonAPIExample_HostAddress = http://localhost:5182
+
+GET {{PythonAPIExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
